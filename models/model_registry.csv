@@ -1,0 +1,4 @@
+version,date_trained,rmse,mae,r2_score,status,model_path,hyperparameters
+v4,2026-03-24 05:15:00,174.7296,102.1232,0.8684,Staging,models\model_versions\model_v4.pkl,"{""subsample"": 0.7, ""n_estimators"": 200, ""max_depth"": 6, ""learning_rate"": 0.05, ""colsample_bytree"": 0.7}"
+v5,2026-03-24 05:19:31,180.5444,104.2502,0.8595,Staging,models\model_versions\model_v5.pkl,"{""subsample"": 0.8, ""n_estimators"": 400, ""max_depth"": 5, ""learning_rate"": 0.01, ""colsample_bytree"": 0.8}"
+v6,2026-03-25 17:54:31,174.7296,102.1232,0.8684,Staging,models\model_versions\model_v6.pkl,"{""subsample"": 0.7, ""n_estimators"": 200, ""max_depth"": 6, ""learning_rate"": 0.05, ""colsample_bytree"": 0.7}"

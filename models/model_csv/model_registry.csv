@@ -1,0 +1,2 @@
+version,date_trained,rmse,mae,r2_score,status,model_path,hyperparameters
+v3,2026-03-24 04:54:57,174.7296,102.1232,0.8684,Staging,models\model_versions\model_v3.pkl,"{""subsample"": 0.7, ""n_estimators"": 200, ""max_depth"": 6, ""learning_rate"": 0.05, ""colsample_bytree"": 0.7}"
