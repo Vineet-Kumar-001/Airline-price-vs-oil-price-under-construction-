@@ -1,0 +1,13 @@
+# IDEs and environments
+.vscode/
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+# Data (It's usually better to mount data as a volume rather than baking it into the image)
+data/
+
+# Exploratory files not needed for the final pipeline
+eda/
